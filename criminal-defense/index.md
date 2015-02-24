@@ -3,20 +3,26 @@ layout: default
 title:  "Criminal Defense"
 ---
 
-This is a test.
+Our criminal justice system consolidates power in the hands of law enforcement and prosecutors. **Empower yourself** with the right attorney.
 
-This is another test.
+Attorney Jin-Ho King has experience in all stages of criminal litigation and in both state and federal forums. For example, Mr. King has helped clients by doing the following and more:
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+* negotiating pre-charge dispositions;
+* defending cases at clerk-magistrate's hearings;
+* fighting for the discovery of private, privileged, or otherwise confidential information from the government;
+* independently investigating claims of innocence or wrongdoing;
+* fighting to exclude illegally seized or prejudicial evidence;
+* petitioning for immediate appeal of incorrect rulings;
+* presenting evidence of affirmative defenses like self-defense and defense of others;
+* trying cases to jury and judge;
+* challenging convictions on appeal to panels of judges;
+* petitioning for relief from judgment in the trial courts.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+In any criminal investigation or prosecution, the deck is stacked against you. Even the odds with trustworthy and capable counsel.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## Government Investigations
+
+## Criminal Prosecutions
+
+## Vindicating Rights
