@@ -11,7 +11,7 @@ ruby RUBY_VERSION
 # Happy Jekylling!
 gem "jekyll", ">= 4.2.0"
 gem "ffi", ">= 1.9.24"
-gem "kramdown", ">= 2.3.0"
+gem "kramdown", ">= 2.3.1"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"
@@ -26,3 +26,5 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
 #   gem "jekyll-polyglot"
 end
+
+gem "webrick", "~> 1.7"
