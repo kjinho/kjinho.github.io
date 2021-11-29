@@ -1,0 +1,3 @@
+[submodule "themes/kingesq-theme"]
+	path = themes/kingesq-theme
+	url = https://github.com/kjinho/kingesq-theme
