@@ -9,11 +9,11 @@ theme = "kingesq-theme"
     favicon = "images/favicon.ico"
     author = "Jin-Ho King"
     address1 = "Jin-Ho King, Attorney at Law"
-    address2 = "50 Congress St Ste 600 Boston MA 02109"
+    address2 = "28 State St Ste 802 Boston MA 02109"
     address3 = "j@kingesq.us | +1 (617) 395-9571"
     disclaimer = "Prior results do not guarantee a similar outcome."
     description = "Jin-Ho King, Attorney at Law, focuses his practice on appeals and complex litigation matters."
-    year = "2021"
+    year = "2022"
     analytics = "UA-60108522-1"
 
 [menu]
